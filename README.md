@@ -1,1 +1,1 @@
-# Algoritmi-Principi-dell-Informatica
+# Prova Finale Algoritmi e Principi dell'Informatica
