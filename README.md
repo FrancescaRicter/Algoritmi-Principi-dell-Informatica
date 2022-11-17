@@ -23,6 +23,7 @@ Il programma da realizzare riceve in ingresso:
 • due parametri, una sola volta (sulla prima riga del file, separati da spazio): 
   - d: il numero di nodi dei grafi
   - k: la lunghezza della classifica
+  
 • Una sequenza di comandi tra:
   - AggiungiGrafo [matrice-di-adiacenza] 
   - TopK
